@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+title: MyDailyLoop
+description: Habit Tracker für iOS - Routinen, Ziele & Belohnungen
+lang: de
+url: https://jch-technologies.github.io
+baseurl: /MyDailyLoop
+
+# GitHub Repository
+github:
+  repository_url: https://github.com/jch-technologies/MyDailyLoop
+  
+# SEO
+author: JCH Technologies
+email: mail@jch-technologies.de
